@@ -1,5 +1,5 @@
 __pycache__
 tmp
 model
-r3d.tfrecords
+*.tfrecords
 log
